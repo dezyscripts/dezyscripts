@@ -1,7 +1,7 @@
-## Change this if u want lol <img align=right src="https://avatars.githubusercontent.com/u/90285038?v=4" width=200/>
+## skem <img align=right src="https://cdn.discordapp.com/attachments/914124700127461436/970090829605666866/inpng.png width=200/>
 
 <h2 align=center>About me</h2>
-This is where your description will be yhyhyhyh
+i'm a 14 yearold from the UK who enjoys learning new skills ( if they're easy enough, the majority arent ) currently i'm learning C#.
 
 
 
@@ -16,5 +16,5 @@ This is where your description will be yhyhyhyh
 <h2 align="center">Contact</h3>
 
 <p align=center>
-  Add Contact stuff here :3
+  skem.xyz
 </p>
